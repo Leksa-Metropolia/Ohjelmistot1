@@ -1,0 +1,6 @@
+k = input("Anna suorakulmion korkeus: ")
+l = input("Anna suorakulmion leveys: ")
+p = 2*int(k)+2*int(l)
+pa = int(k)*int(l)
+print("Suorakulmion piiri on: "+str(p))
+print("Suorakulmion pinta-ala on: "+str(pa))
