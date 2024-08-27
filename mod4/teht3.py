@@ -1,7 +1,8 @@
-a = int(0)
+a = []
 while True:
     i = input("Anna luku: ")
     if i == "":
-        print("Syötettyjen lukujen summa on: " + str(a))
+        a.sort()
+        print(f"Suurin syötetty luku on {a[len(a)-1]} ja pienin {a[0]}")
         break
-    a += int(i)
+    a.append(int(i))
