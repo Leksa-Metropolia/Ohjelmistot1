@@ -2,7 +2,7 @@ i = ""
 a = list()
 
 while True:
-    i = int(input("Syötä luku: "))
+    i = input("Syötä luku: ")
     if i == "":
         break
     else:
