@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="213d23bf-b07a-47d9-a7ec-23f3f51ad1c3" name="Changes" comment="mod4 teht6">
-      <change afterPath="$PROJECT_DIR$/mod11/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod11/teht1.py" afterDir="false" />
+    <list default="true" id="213d23bf-b07a-47d9-a7ec-23f3f51ad1c3" name="Changes" comment="mod6 teht6 korjaus">
+      <change afterPath="$PROJECT_DIR$/mod12/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod12/teht1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod12/teht2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +114,7 @@
       <updated>1724139679933</updated>
       <workItem from="1724139686794" duration="28768000" />
       <workItem from="1724667418369" duration="50000" />
-      <workItem from="1724667500862" duration="30033000" />
+      <workItem from="1724667500862" duration="45500000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -187,7 +188,47 @@
       <option name="project" value="LOCAL" />
       <updated>1724913990716</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="mod11">
+      <option name="closed" value="true" />
+      <created>1724918587462</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724918587462</updated>
+    </task>
+    <task id="LOCAL-00011" summary="mod5 teht1 korjaus">
+      <option name="closed" value="true" />
+      <created>1725271530411</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725271530411</updated>
+    </task>
+    <task id="LOCAL-00012" summary="mod5 teht2 korjaus">
+      <option name="closed" value="true" />
+      <created>1725271648927</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725271648927</updated>
+    </task>
+    <task id="LOCAL-00013" summary="mod5 teht2 korjaus">
+      <option name="closed" value="true" />
+      <created>1725271763817</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725271763817</updated>
+    </task>
+    <task id="LOCAL-00014" summary="mod6 teht6 korjaus">
+      <option name="closed" value="true" />
+      <created>1725518335859</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725518335859</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +253,11 @@
     <MESSAGE value="mod8 tehty" />
     <MESSAGE value="mod9 &amp; mod10" />
     <MESSAGE value="mod4 teht6" />
-    <option name="LAST_COMMIT_MESSAGE" value="mod4 teht6" />
+    <MESSAGE value="mod11" />
+    <MESSAGE value="mod5 teht1 korjaus" />
+    <MESSAGE value="mod5 teht2 korjaus" />
+    <MESSAGE value="mod6 teht6 korjaus" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod6 teht6 korjaus" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht4_3.coverage" NAME="teht4.3 Coverage Results" MODIFIED="1724154794261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
@@ -220,14 +265,14 @@
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht2_1.coverage" NAME="teht2.1 Coverage Results" MODIFIED="1724143897944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht3_1.coverage" NAME="teht3.1 Coverage Results" MODIFIED="1724150883958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht2_3.coverage" NAME="teht2.3 Coverage Results" MODIFIED="1724144517682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
-    <SUITE FILE_PATH="coverage/Ohjelmistot1$teht2.coverage" NAME="teht2 Coverage Results" MODIFIED="1724754497087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod10" />
+    <SUITE FILE_PATH="coverage/Ohjelmistot1$teht2.coverage" NAME="teht2 Coverage Results" MODIFIED="1725523775713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod12" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht4_4.coverage" NAME="teht4.4 Coverage Results" MODIFIED="1724155116881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht6.coverage" NAME="teht6 Coverage Results" MODIFIED="1724913811633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod4" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht2_4.coverage" NAME="teht2.4 Coverage Results" MODIFIED="1724146852236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht3_2.coverage" NAME="teht3.2 Coverage Results" MODIFIED="1724151812080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht2_2.coverage" NAME="teht2.2 Coverage Results" MODIFIED="1724144223561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht2_5.coverage" NAME="teht2.5 Coverage Results" MODIFIED="1724150207464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
-    <SUITE FILE_PATH="coverage/Ohjelmistot1$teht1.coverage" NAME="teht1 Coverage Results" MODIFIED="1724753858384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod10" />
+    <SUITE FILE_PATH="coverage/Ohjelmistot1$teht1.coverage" NAME="teht1 Coverage Results" MODIFIED="1725523297744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod12" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht4_5.coverage" NAME="teht4.5 Coverage Results" MODIFIED="1724155664852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht3_3.coverage" NAME="teht3.3 Coverage Results" MODIFIED="1724152509352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
     <SUITE FILE_PATH="coverage/Ohjelmistot1$teht4_1.coverage" NAME="teht4.1 Coverage Results" MODIFIED="1724153712130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod1" />
