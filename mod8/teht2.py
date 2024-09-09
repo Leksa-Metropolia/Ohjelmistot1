@@ -1,5 +1,7 @@
 import mysql.connector
 
+#funktio hakee listasta, johon on tallennettu lentokenttä
+#tyyppien lukumäärä, kyseisen lentokenttä tyypin indexin
 def haku(list, element):
     for i in list:
         if i[0] == element:
@@ -25,9 +27,12 @@ tks = kurs.fetchall()
 kurs.execute(sql2)
 tl = kurs.fetchall()
 
+#luodaan kaksiulotteinen lista tallentamaan lentokenttä tyypit
+#ja niiden lukumäärä
 for type in tl:
     lista.append([type[0], 0])
 
+#tallennetaan aiemmin luotuun listaan saatujen lentokenttien tyypit
 for type in tl:
     for row in tks:
         if row[1] == type[0]:
