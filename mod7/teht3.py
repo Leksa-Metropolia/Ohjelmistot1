@@ -1,10 +1,5 @@
 asemat = []
 
-def format(a):
-    a = a.lower()
-    a = a.capitalize()
-    return a
-
 while True:
     s = input("Mitä tehtdään?\n"
               "syötä uusi lentoasema = U\n"
@@ -16,7 +11,7 @@ while True:
     elif s == "u":
         asema = input("Syötä lentoaseman nimi: ")
         icao = input("Anna aseman ICAO-koodi: ")
-        asema = format(asema)
+        asema.capitalize()
         icao = icao.upper()
         i = [icao, asema]
         asemat.append(i)
