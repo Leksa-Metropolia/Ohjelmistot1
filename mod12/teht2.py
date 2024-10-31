@@ -1,7 +1,7 @@
 import json
 import requests
 
-with open('keys.json') as config_file:
+with open('config.json') as config_file:
     config = json.load(config_file)
 APIkey = config['API_key']
 location = input("Insert name of the location of which you wish to search for weather data: ")
