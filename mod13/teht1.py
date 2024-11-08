@@ -1,11 +1,10 @@
-import flask
-
-app = flask.Flask(__name__)
+from flask import Flask
+app = Flask(__name__)
 @app.route('/alkuluku/<luku>')
 def alkuluku(luku):
     luku = int(luku)
     for i in range(2, (luku // 2) + 1):
-        if (luku % i == 0):
+        if luku % i == 0:
             return {"Number": luku, "isPrime": False}
     else:
         return {"Number": luku, "isPrime": True}
